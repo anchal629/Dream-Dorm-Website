@@ -1,0 +1,33 @@
+.Welcome {
+    margin: 80px auto 80px auto;
+    text-align: center;
+}
+
+.details {
+
+    margin-top: 100px;
+    background-color: #212A3E;
+    margin-right: 800px;
+    border-bottom-right-radius: 10rem;
+    border-top-right-radius: 10rem;
+}
+
+.content {
+    color: white;
+    margin-left: 60px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-bottom-width: 100px;
+}
+
+.nitk {
+  float: right;
+    margin-right: 400px;
+    margin-top: 200px;
+    width: 600px;
+    position: relative;
+}
+
+.edit {
+  margin: 50px;
+}

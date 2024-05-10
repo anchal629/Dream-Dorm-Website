@@ -1,0 +1,33 @@
+.up {
+  height: 3rem;
+  color: #ef8172;
+  margin-bottom: 1rem;
+  width: 100px;
+  position: relative;
+left: 230px;
+top: 10px;
+
+}
+
+.up:hover {
+  color: #ff4c68;
+}
+
+.down {
+  height: 3rem;
+  color: #ef8172;
+  margin-bottom: 1rem;
+  width: 100px;
+  position: relative;
+    left: 400px;
+    bottom: 55px;
+
+}
+
+.down:hover {
+  color: #ff4c68;
+}
+
+.card {
+  margin: 0 400px 0 400px;
+}
